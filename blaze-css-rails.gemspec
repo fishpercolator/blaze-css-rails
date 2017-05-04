@@ -20,8 +20,8 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = '>= 1.9.3'
 
-  gem.add_dependency "railties", ">= 3.2", "< 5.1"
+  gem.add_dependency "railties", ">= 3.2", "< 5.2"
   gem.add_dependency "sass-rails", ">= 4.0", "< 6.0"
 
-  gem.add_development_dependency "activesupport", ">= 3.2", "< 5.1"
+  gem.add_development_dependency "activesupport", ">= 3.2", "< 5.2"
 end
